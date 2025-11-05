@@ -1,8 +1,5 @@
 # ⚡ FaastPay – The Fastest Web3 Wallet on Polygon (Amoy)
 
-![FaastPay Banner]() <!-- Replace with your banner later -->
-
-### 💼 Built by [Boss](https://github.com/prabalvarshney21)
 > A Phantom-inspired Web3 wallet that lets users send, receive, and manage **FAAST Coins** seamlessly on the **Polygon Amoy Testnet**.
 
 ---
